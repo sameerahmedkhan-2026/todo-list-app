@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Todo List</title>
-    <link rel="stylesheet" href="src/style.css" />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header id="app-header">
@@ -19,19 +19,32 @@
         <div id="intro">
           <h1 id="page-heading">Get things done!</h1>
           <p>Add a task and stay productive.</p>
-          <button type="button" id="open-add-task-button">
-            Add Task
-          </button>
+          <button type="button" id="open-add-task-button">Add Task</button>
         </div>
 
         <nav id="task-filters" aria-label="Task filters">
-          <button type="button" id="filter-all" data-filter="all" aria-pressed="true">
+          <button
+            type="button"
+            id="filter-all"
+            data-filter="all"
+            aria-pressed="true"
+          >
             All
           </button>
-          <button type="button" id="filter-active" data-filter="active" aria-pressed="false">
+          <button
+            type="button"
+            id="filter-active"
+            data-filter="active"
+            aria-pressed="false"
+          >
             Active
           </button>
-          <button type="button" id="filter-completed" data-filter="completed" aria-pressed="false">
+          <button
+            type="button"
+            id="filter-completed"
+            data-filter="completed"
+            aria-pressed="false"
+          >
             Completed
           </button>
         </nav>
@@ -49,7 +62,11 @@
       hidden
     >
       <div>
-        <button type="button" id="close-add-task-modal" aria-label="Close Add Task modal">
+        <button
+          type="button"
+          id="close-add-task-modal"
+          aria-label="Close Add Task modal"
+        >
           <span aria-hidden="true">&times;</span>
         </button>
         <h2 id="add-task-modal-heading">Add New Task</h2>
@@ -97,6 +114,6 @@
       </div>
     </div>
 
-    <script src="src/script.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
