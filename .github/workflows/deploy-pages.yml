@@ -31,7 +31,9 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p _site
-          cp -R todo-list-app-v1/src/. _site/
+          cp todo-list-app-v1/index.html _site/
+          mkdir -p _site/src
+          cp todo-list-app-v1/src/style.css todo-list-app-v1/src/script.js _site/src/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
