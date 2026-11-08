@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mock-task-001",
+    "title": "Plan the week",
+    "completed": false
+  },
+  {
+    "id": "mock-task-002",
+    "title": "Review JavaScript fundamentals",
+    "completed": true
+  },
+  {
+    "id": "mock-task-003",
+    "title": "Complete the Todo List layout",
+    "completed": true
+  },
+  {
+    "id": "mock-task-004",
+    "title": "Practice semantic HTML",
+    "completed": false
+  },
+  {
+    "id": "mock-task-005",
+    "title": "Refactor repeated CSS styles",
+    "completed": false
+  },
+  {
+    "id": "mock-task-006",
+    "title": "Read about browser Local Storage",
+    "completed": true
+  },
+  {
+    "id": "mock-task-007",
+    "title": "Write notes about DOM events",
+    "completed": false
+  },
+  {
+    "id": "mock-task-008",
+    "title": "Test the Add Task modal",
+    "completed": true
+  },
+  {
+    "id": "mock-task-009",
+    "title": "Test task filtering",
+    "completed": false
+  },
+  {
+    "id": "mock-task-010",
+    "title": "Check the delete confirmation flow",
+    "completed": false
+  },
+  {
+    "id": "mock-task-011",
+    "title": "Improve keyboard accessibility",
+    "completed": true
+  },
+  {
+    "id": "mock-task-012",
+    "title": "Review responsive layout on mobile",
+    "completed": false
+  },
+  {
+    "id": "mock-task-013",
+    "title": "Create a GitHub repository README",
+    "completed": true
+  },
+  {
+    "id": "mock-task-014",
+    "title": "Check the GitHub Pages deployment",
+    "completed": false
+  },
+  {
+    "id": "mock-task-015",
+    "title": "Prepare the class presentation",
+    "completed": true
+  },
+  {
+    "id": "mock-task-016",
+    "title": "Document the application architecture",
+    "completed": true
+  },
+  {
+    "id": "mock-task-017",
+    "title": "Learn how JSON.parse works",
+    "completed": false
+  },
+  {
+    "id": "mock-task-018",
+    "title": "Learn how JSON.stringify works",
+    "completed": false
+  },
+  {
+    "id": "mock-task-019",
+    "title": "Plan the React version of the app",
+    "completed": false
+  },
+  {
+    "id": "mock-task-020",
+    "title": "Review the completed project",
+    "completed": true
+  }
+]
