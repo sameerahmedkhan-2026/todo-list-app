@@ -27,20 +27,7 @@ Implemented features include:
 - Responsive blue-and-white interface
 - Accessible labels, buttons, focus states, and dialogs
 
-### v2: React application
-
-The planned second version may rebuild the application with React to introduce:
-
-- Components and reusable UI sections
-- React state management
-- More structured event handling
-- A maintainable component-based architecture
-- Improved development and testing workflows
-
-### v3: Further enhancements
-
-The third version may extend the React application with additional features,
-integrations, and production improvements.
+### Further enhancements
 
 Possible enhancements include:
 
