@@ -43,9 +43,9 @@ Possible enhancements include:
 
 ```text
 todo-list-app-v1/
-├── designs/
-├── docs/
+├── resources/
 │   ├── architecture.md
+│   ├── design-1.png
 │   ├── features.md
 │   └── todo-list-app-class.pptx
 ├── index.html
@@ -102,9 +102,9 @@ The application:
 
 ## Documentation
 
-- [Architecture documentation](./todo-list-app-v1/docs/architecture.md)
-- [Implemented and suggested features](./todo-list-app-v1/docs/features.md)
-- [Class presentation](./todo-list-app-v1/docs/todo-list-app-class.pptx)
+- [Architecture documentation](./todo-list-app-v1/resources/architecture.md)
+- [Implemented and suggested features](./todo-list-app-v1/resources/features.md)
+- [Class presentation](./todo-list-app-v1/resources/todo-list-app-class.pptx)
 
 ## Deployment
 
